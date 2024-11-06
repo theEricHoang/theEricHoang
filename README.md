@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hello, I'm Eric Hoang! 👋😺
+**I'm:**
+- 📚 a 3rd year at Georgia State University, pursuing a B.S. in Computer Science!
+- 👨‍💻 proficient with React, Next.js, Flask, JavaFX, Scikit-learn, Pandas, and TKinter!
+- 👔 looking for Summer 2025 internships!
 
-<!--
-**theEricHoang/theEricHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach out to me here:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/erichoang2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
