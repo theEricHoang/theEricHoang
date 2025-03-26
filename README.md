@@ -1,8 +1,8 @@
 # Hello, I'm Eric Hoang! 👋😺
 **I'm:**
 - 📚 a 3rd year at Georgia State University, pursuing a B.S. in Computer Science!
-- 👨‍💻 proficient with React, Django, Flask, JavaFX, Scikit-learn, Pandas, and Next.js!
-- 👔 looking for Summer 2025 internships!
+- 👨‍💻 proficient with React, Django, Flask, JavaFX, Scikit-learn, Pandas, Next.js!
+- 👔 interning at Cox this summer!
 
 ## Reach out to me here:
 <div id="badges">
