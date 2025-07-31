@@ -1,5 +1,6 @@
 # hi, i'm eric hoang! 👋😺
-**i'm:**
+
+**i am:**
 - 📚 a 4th year at Georgia State University, pursuing a B.S. in Computer Science
 - 👨‍💻 proficient and experienced with all parts of software development, from planning, to coding, to deployment
 - 👔 interning at Cox Automotive this summer!
